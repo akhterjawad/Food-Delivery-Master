@@ -7,8 +7,9 @@
 html {
     scroll-behavior: smooth;
 }
-.red{
-    background-image: linear-gradient(to right,red,white,red);
+
+.red {
+    background-image: linear-gradient(to right, #e83036, white, #e83036);
 }
 
 #navbar {
