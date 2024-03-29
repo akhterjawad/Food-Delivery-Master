@@ -230,3 +230,12 @@ footer {
 .center {
     text-align: center;
 }
+button:hover{
+    background-color:#ffffff;
+    color: #a52a2a;
+    /* font-weight: 600; */
+    border: 2px solid #a52a2a;
+    transition-property: all;
+    transition: 0.3s;
+
+}
